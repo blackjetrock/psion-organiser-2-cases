@@ -1,6 +1,6 @@
 # Cases for the Psion Organiser 2
 
-##*** Work in progress ***
+## Work in progress
 
 These models are not perfect, work will be needed to use them. In particular the narrower top slot case halves do not fit together properly.
 
